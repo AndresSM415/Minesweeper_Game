@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1619116537 source:c:\users\andre\onedrive\documents\uanl\materias\progra\homeworks\homework 5.0\main.c
+	"minesweeper.h"
+
+1619117219 source:c:\users\andre\onedrive\documents\uanl\materias\progra\homeworks\homework 5.0\muestrapos.c
+
+1619111829 c:\users\andre\onedrive\documents\uanl\materias\progra\homeworks\homework 5.0\minesweeper.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1619111539 source:c:\users\andre\onedrive\documents\uanl\materias\progra\homeworks\homework 5.0\marcaborde.c
+
+1619111482 source:c:\users\andre\onedrive\documents\uanl\materias\progra\homeworks\homework 5.0\revela.c
+
+1619111541 source:c:\users\andre\onedrive\documents\uanl\materias\progra\homeworks\homework 5.0\cuentaminas.c
+
+1619117891 source:c:\users\andre\onedrive\documents\uanl\materias\progra\homeworks\homework 5.0\coordenada.c
+
+1619117400 source:c:\users\andre\onedrive\documents\uanl\materias\progra\homeworks\homework 5.0\imprimemapa.c
+
